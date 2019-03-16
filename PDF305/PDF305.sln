@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PDF305", "PDF305.csproj", "{578D2D60-AF95-4853-B357-10D2878E14AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{578D2D60-AF95-4853-B357-10D2878E14AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{578D2D60-AF95-4853-B357-10D2878E14AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{578D2D60-AF95-4853-B357-10D2878E14AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{578D2D60-AF95-4853-B357-10D2878E14AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {77B16B7F-F56F-4121-9337-AC0CBD43F439}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,8 @@
+﻿using System.Data;
+using System.Data.OleDb;
+string conStr = @"Provider=SQLOLEDB;Data Source=localhost\SQLEXPRESS;Initial Catalog=test;Integrated Security=SSPI";
+
+ string connectionString = 
+                @"Data Source=localhost\SQLEXPRESS;
+                Initial Catalog=test;
+                Integrated Security=true"; // 윈도우인증을 사용함
